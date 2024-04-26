@@ -4,7 +4,7 @@
 
 I'm a passionate Developer who loves diving into innovative projects and exploring new technologies. When I'm not coding, you can find me relaxing on the beach or maintaining my bike.
 
-## 💻 Skills
+## 💻 Skills && :hammer_and_wrench: Tools 
 
 - **Programming Languages:**
    <br><br>
