@@ -6,26 +6,40 @@ I'm a passionate Developer who loves diving into innovative projects and explori
 
 ## 💻 Skills
 
-- **Programming Languages:** 
-  - ![Golang](https://img.icons8.com/color/48/000000/golang.png) Golang: I love this language
-  - ![ColdFusion](https://github.com/MidhunJithu/MidhunJithu/assets/83566245/0536bb2b-e716-4e2e-916a-2e8d597682df) Coldfusion: this was a great start to my career
-  - ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) ReactJs: always fun playing around with it
-  - ![React Native](https://img.icons8.com/ultraviolet/40/000000/react.png) ReactNative: started with a tentative mind, but got the hang of it easily
-  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python: still a newbie, but love to do some projects
+- **Programming Languages:**
+   <br><br>
+   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+   ![Adobe](https://img.shields.io/badge/ColdFusion-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - **Technologies:** 
-  - ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) Terraform: great that I got a project associated with it
-  - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS: Along with Terraform
-  - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker: Shipped a few containers for my personal projects
-  - ![CICD](https://img.icons8.com/windows/32/000000/code-fork.png) CICD: gitlab pipeline mostly
+ <br><br>
+ ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+ ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+- **Tools:**
+  <br><br>
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 - **Database:** 
-  - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL: most of my projects have been on this
-  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB: worked with some projects, even converted one from PostgreSQL to MongoDB
-  - ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase: You can find my personal project on this one in my repos
+  <br><br>
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 - **Web Development:** 
-  - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap and Jquery along with traditional JavaScript
+ <br><br>
+ ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 🛠️ Projects
 
